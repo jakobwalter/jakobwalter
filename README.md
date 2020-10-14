@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Student of Statistical Science, here to share some code.
 <!--
 **jakobwalter/jakobwalter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
