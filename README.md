@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student of Statistical Science-
+I am a student of Statistical Science.
 <!--
 **jakobwalter/jakobwalter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
