@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I am a student of Statistical Science.
+MSc Statistics & Data Science; Interested in Statistical Machine Learning
 <!--
+
 **jakobwalter/jakobwalter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
